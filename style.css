@@ -37,7 +37,7 @@
             text-decoration: none;
         }
 
-        a:hover {
+       a:focus {
             color: #0000cc;
             border-bottom: 2px solid #0000cc;
         }
@@ -64,7 +64,6 @@
     color: #fff;
     padding: 120px 100px 30px;
     position: relative;
-    /* مرجع للتموضع */
     overflow: hidden;
 
     .upSection {
